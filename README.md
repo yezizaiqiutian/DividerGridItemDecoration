@@ -143,4 +143,4 @@ public class DividerGridItemDecoration extends RecyclerView.ItemDecoration {
             outRect.set(0, 0, 0, 0);
         }
     }
-}```
+}
