@@ -1,6 +1,7 @@
 # DividerGridItemDecoration
-RecyclerView分割线，参照鸿洋Demo做了相应的修改
-鸿洋Demo：http://blog.csdn.net/lmj623565791/article/details/45059587
+## RecyclerView分割线，参照鸿洋Demo做了相应的修改
+## 鸿洋Demo：http://blog.csdn.net/lmj623565791/article/details/45059587
+## 类：
 ```
 public class DividerGridItemDecoration extends RecyclerView.ItemDecoration {
 
